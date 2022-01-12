@@ -1,0 +1,21 @@
+{
+  "name": "100-days-challenge-eleven",
+  "version": "1.0.0",
+  "description": "First walkthrough of node and ExpressJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RK9"
+  ],
+  "author": "Khalid Syahmi",
+  "license": "I made it up lmao",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
